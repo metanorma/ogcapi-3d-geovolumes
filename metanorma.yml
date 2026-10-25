@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - metanorma/ogcapi-3d-geovolumes/document.adoc
+
+  collection:
+    organization: "OGC: The Open Geospatial Consortium"
+    name: "OGC API - 3D GeoVolumes (model-based publication)"
